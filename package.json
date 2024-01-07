@@ -1,0 +1,19 @@
+{
+  "name": "NJSA",
+  "version": "1.0.0",
+  "description": "nest js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antonsipin/NJSA.git"
+  },
+  "author": "antonsipin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonsipin/NJSA/issues"
+  },
+  "homepage": "https://github.com/antonsipin/NJSA#readme"
+}
