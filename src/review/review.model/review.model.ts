@@ -3,5 +3,5 @@ export class ReviewModel {
   title: string;
   description: string;
   rating: string;
-  created: Date;
+  createdAt: Date;
 }
