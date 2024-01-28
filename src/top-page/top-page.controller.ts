@@ -9,7 +9,7 @@ import {
   Param,
 } from '@nestjs/common';
 import { TopPageModel } from './top-page.model/top-page.model';
-import { TopPageDto } from './dto/find-top-page.dto';
+import { FindTopPageDto } from './dto/find-top-page.dto';
 
 @Controller('top-page')
 export class TopPageController {
