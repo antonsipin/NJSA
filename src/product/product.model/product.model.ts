@@ -40,6 +40,6 @@ export class ProductModel extends TimeStamps {
   @prop({ type: () => [String] })
   tags: string[];
 
-  @prop({ type: () => [ProductCharacteristic] })
+  @prop({ type: () => [ProductCharacteristic], _id: false })
   characteristics: ProductCharacteristic[];
 }
